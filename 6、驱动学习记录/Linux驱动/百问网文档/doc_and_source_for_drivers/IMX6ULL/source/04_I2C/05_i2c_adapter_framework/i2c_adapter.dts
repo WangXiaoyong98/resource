@@ -1,8 +1,0 @@
-
-/ {
-	i2c-bus-virtual {
-		 compatible = "100ask,i2c-bus-virtual";
-	};
-};
-
-

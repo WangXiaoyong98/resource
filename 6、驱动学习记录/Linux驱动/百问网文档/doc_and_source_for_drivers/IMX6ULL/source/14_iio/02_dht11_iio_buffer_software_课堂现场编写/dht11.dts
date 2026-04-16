@@ -1,4 +1,0 @@
-humidity_sensor {
-	compatible = "dht11";
-    gpios = <&gpio4 19 GPIO_ACTIVE_HIGH>;
-};
